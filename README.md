@@ -11,6 +11,7 @@ The time zone and daylight saving time is hardcoded in the code - change it acco
 BOM:
 
 ESP8266 board (such as Wemos D1 Mini)
+
 24 LEDs from a WS2812B strip
 
 
